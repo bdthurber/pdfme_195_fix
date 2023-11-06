@@ -12,7 +12,7 @@
     "typescript",
     "react"
   ],
-  "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license!",
+  "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license! Forked to fix error 195 on the base package",
   "homepage": "https://pdfme.com",
   "repository": {
     "type": "git",

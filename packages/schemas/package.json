@@ -1,6 +1,6 @@
 {
-  "name": "@pdfme/schemas",
-  "version": "0.0.0",
+  "name": "@bdthurber/schemas",
+  "version": "1.0.1",
   "sideEffects": false,
   "author": "hand-dot",
   "license": "MIT",
@@ -12,11 +12,11 @@
     "typescript",
     "react"
   ],
-  "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license!",
+  "description": "TypeScript base PDF generator and React base UI. Open source, developed by the community, and completely free to use under the MIT license! Forked to fix error 195 on the base package. Only Schema definitions",
   "homepage": "https://pdfme.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:pdfme/pdfme.git"
+    "url": "git@github.com:bdthurber/pdfme_195_fix.git"
   },
   "bugs": {
     "url": "https://github.com/pdfme/pdfme/issues"
